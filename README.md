@@ -1,1 +1,1 @@
-# restro-project
+# Restaurant Menu Application
